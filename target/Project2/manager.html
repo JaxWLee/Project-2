@@ -1,0 +1,19 @@
+<div id="navbar">
+		<button onclick="getLogout()">Logout</button>
+</div>
+<h2 id="hello"></h2>
+<div id="managerDash">
+<button onclick="viewAllPending()">View All Pending Requests</button>
+<button onclick="viewAllResolved()">View All Resolved Requests</button>
+</div>
+<div id="mgmt">
+<label>Enter The Username of an Employee: </label><br>
+<input type="text" id="view_username">
+<button onclick="getByEmployee()">View All Requests By Employee</button><br>
+<label>Enter the request ID and Status to Update A Request: </label><br>
+<input type="text" id="request_id">
+<input type="text" id="request_status">
+<button onclick="updateRequest()">Update A Request</button>
+
+
+</div>
