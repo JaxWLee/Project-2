@@ -1,0 +1,40 @@
+#wrapper{
+	margin: 10px;
+	width: 980px;
+}
+#navbar{
+	margin:5px;
+}
+#hello{
+	margin:10px;
+}
+#employeeDash button{
+	margin:5px;
+}
+#managerDash button{
+	margin:5px;
+}
+#mgmt{
+	margin:5px;
+}
+#mgmt label{
+	margin:5px;
+}
+#info{
+	margin:10px;
+}
+#info button{
+	margin-top:5px;
+}
+#create{
+	margin:5px;
+}
+#form{
+	margin:10px;
+}
+#password{
+	margin-left:2px;
+}
+button{
+	margin:10px;
+}
